@@ -4,7 +4,7 @@
     "port": 5432,
     "host": "localhost",
     "username": "postgres",
-    "password": "admin0101",
+    "password": "admin",
     "database": "star",
     "migrations": [
       "./src/shared/infra/typeorm/migrations/*.ts"
